@@ -1,3 +1,15 @@
+## This is ReactJS Practice Code
+
+Project / Code from Youtube Tutorial [React Tutorial for Beginners](https://youtu.be/Ke90Tje7VS0) by [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA), and completely coded by **Me**.
+
+---
+
+## <br /><br />
+
+### Ignore all the data from now, it's auto generated...
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
