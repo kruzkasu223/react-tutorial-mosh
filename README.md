@@ -4,7 +4,7 @@ Project / Code from Youtube Tutorial [React Tutorial for Beginners](https://yout
 
 ---
 
-## <br /><br />
+<br />
 
 ### Ignore all the data from now, it's auto generated...
 
